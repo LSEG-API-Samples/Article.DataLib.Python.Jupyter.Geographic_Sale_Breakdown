@@ -3,7 +3,7 @@
 - Last update: March 2025
 - Environment: Windows 
 - Compiler: Python 
-- Prerequisite: LSEG Workspace desktop application with access to Data Libary.
+- Prerequisite: LSEG Workspace desktop application with access to Data Library.
 
 ## <a id="overview"></a>Project Overview
 
